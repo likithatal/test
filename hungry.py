@@ -8,3 +8,4 @@ else:
     if thirsty=="yes":
         print("drink water")
         print("ghjkl")
+        print("dfghjk")
